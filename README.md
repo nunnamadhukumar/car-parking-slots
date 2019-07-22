@@ -10,5 +10,6 @@ For entering status :status<br>
 For entering to find registration numbers of cars with colour: registration_numbers_for_cars_with_colour colour name<br>
 For entering to find slot numbers for cars withcolour : slot_numbers_for_cars_with_colour colour name<br>
 For entering to check slot_numbers for registration numbers :slot_number_for_registration_number registration numbers</p>
-
+<h2>For running the file</h2>
+<h2>go to terminal path of file parking.py</h2>
    
